@@ -7,6 +7,7 @@ THIS IS A SPOTIFY CLONE MADE USING HTML , CSS,JS SPECIAL THANKS TO CODE WITH HAR
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Spotify - Your favourite music is here</title>
+        <link rel="stylesheet" href="style.css">
         <style>
             @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
@@ -149,7 +150,6 @@ nav ul li{
     color: #198171; /* Adjust the color as needed */
 }
         </style>
-        <link rel="stylesheet" href="style.css">
         </head>
 <body>
     <nav>
